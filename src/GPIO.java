@@ -17,7 +17,7 @@ public class GPIO
 	    {
 	        final GpioController gpio = GpioFactory.getInstance();
 	        
-	        System.out.println("TEST");
+	        System.out.println("TESTMARVIN");
 	        
 //	        GPIOs[0]  = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_00, "", PinState.LOW);
 	        GPIOs[1]  = gpio.provisionDigitalOutputPin(RaspiPin.GPIO_01, "", PinState.LOW);
